@@ -1,6 +1,8 @@
 Tugas P6
-Nama Sayidina Ramadhan
-Kelas TI.24.A.1
+Nama:Sayidina Ramadhan
+
+Kelas:TI.24.A.1
+
 Nim:312410112
 ## Tiket Bioskop
 Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. Konsepnya adalah jika user memiliki kartu member maka user akan mendapatkan diskon 20%
