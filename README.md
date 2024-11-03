@@ -10,7 +10,6 @@ Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. K
 Masukkan tipe tiket (reguler/vip): vip
 Apakah Anda memiliki kartu member? (ya/tidak): tidak
 total harga yang harus dibayar: Rp100000.00
-PS C:\Users\SAYIDINA RAMADHAN\Desktop\vscode sayi> & "C:/Users/SAYIDINA RAMADHAN/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/SAYIDINA RAMADHAN/Desktop/vscode sayi/belajar/nyoba.py"
 Masukkan tipe tiket (reguler/vip): vip
 Apakah Anda memiliki kartu member? (ya/tidak): ya
 total harga yang harus dibayar: Rp80000.00
