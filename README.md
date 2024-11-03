@@ -43,3 +43,28 @@ total_harga = harga_tiket * (1 - diskon)
 # Menampilkan hasil
 print(f"total harga yang harus dibayar: Rp{total_harga:.2f}")
 ```
+## Penjelasan
+Deskripsi Program
+Program ini dirancang untuk menghitung total harga tiket berdasarkan jenis tiket yang dibeli (reguler atau VIP) dan apakah pembeli memiliki kartu member. Berikut adalah langkah-langkah rinci dari program ini:
+
+Definisi Harga Tiket:
+
+Kita menetapkan harga dasar untuk dua jenis tiket:
+Harga Tiket Reguler: Rp35.000
+Harga Tiket VIP: Rp90.000
+Input Pengguna:
+
+Jenis Tiket: Program meminta pengguna untuk memasukkan jenis tiket yang diinginkan. Input diubah menjadi huruf kecil dan dihilangkan spasi untuk menjaga konsistensi.
+Status Member: Pengguna juga diminta untuk mengkonfirmasi apakah mereka memiliki kartu member dengan cara yang sama.
+Menentukan Harga Tiket:
+
+Jika pengguna memilih tiket reguler, maka harga tiket akan diatur menjadi Rp35.000.
+Jika pengguna memilih tiket VIP, harga tiket akan diatur menjadi Rp90.000.
+Jika input tidak valid (tidak "reguler" atau "VIP"), program akan mencetak pesan kesalahan dan mengatur harga tiket menjadi 0.
+Menghitung Diskon untuk Member:
+
+Jika pengguna adalah member (jawaban "ya") dan tiket yang dipilih valid, diskon sebesar 20% dari harga tiket akan dihitung.
+Jika pengguna bukan member atau tiket yang dipilih tidak valid, total harga tetap sama dengan harga tiket tanpa diskon.
+Menampilkan Total Harga:
+
+Jika harga tiket valid (harga tiket lebih dari 0), program akan mencetak total harga yang harus dibayar, diformat hingga dua desimal. Jika tidak, tidak ada output harga.
