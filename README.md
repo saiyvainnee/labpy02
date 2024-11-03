@@ -3,4 +3,10 @@ Nama Sayidina Ramadhan
 Kelas TI.24.A.1
 Nim:312410112
 ## Tiket Bioskop
-![image](https://github.com/user-attachments/assets/92431072-c0d3-48e1-acdf-52c3df51d3e5)
+Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. Konsepnya adalah jika user memiliki kartu member maka user akan mendapatkan diskon 20%
+
+![image](https://github.com/user-attachments/assets/b33dcfb1-7dcb-49a4-9d87-43a387cdd5ec)
+## Program akan Meminta user untuk menginputkan tipe tiket
+Masukkan tipe tiket (reguler/vip): vip
+Apakah Anda memiliki kartu member? (ya/tidak): tidak
+Harga tiket yang harus dibayar: 100000
