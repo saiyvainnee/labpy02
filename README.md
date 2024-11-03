@@ -71,6 +71,8 @@ Jika harga tiket valid (harga tiket lebih dari 0), program akan mencetak total h
 
 ## 2. Kalkulator Sederhana
 Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.
+## Flowchart
+![image](https://github.com/user-attachments/assets/0f01092b-47fe-46e3-b85c-38f09e31ae0e)
 
 ```python
 def kalkulator():
@@ -101,4 +103,15 @@ def kalkulator():
     print("Hasil:", hasil)
 
 kalkulator()
+```
+## Program akan meminta kita untuk memasukkan 3 angka untuk dibandingkan :
+```python
+Masukkan angka pertama: 10
+Masukkan angka kedua: 5
+Masukkan operator (+, -, *, /): +
+Hasil: 15.0
+Masukkan angka pertama: 17
+Masukkan angka kedua: 10
+Masukkan operator (+, -, *, /): -
+Hasil: 7.0
 ```
