@@ -16,7 +16,7 @@ Masukkan tipe tiket (reguler/vip): vip
 Apakah Anda memiliki kartu member? (ya/tidak): ya
 total harga yang harus dibayar: Rp80000.00
 PS C:\Users\SAYIDINA RAMADHAN\Desktop\vscode sayi>\
-```python
+```
 
 ```python
 # Mengambil input dari pengguna
@@ -42,4 +42,4 @@ total_harga = harga_tiket * (1 - diskon)
 
 # Menampilkan hasil
 print(f"total harga yang harus dibayar: Rp{total_harga:.2f}")
-```python
+```
