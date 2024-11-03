@@ -115,3 +115,8 @@ Masukkan angka kedua: 10
 Masukkan operator (+, -, *, /): -
 Hasil: 7.0
 ```
+## Cara Kerja
+Fungsi kalkulator: Menghitung hasil berdasarkan dua angka dan satu operator (+, -, *, /).
+Input Pengguna: Meminta pengguna memasukkan dua angka dan operator.
+Error Handling: Menangani kesalahan jika input tidak valid (misal, huruf).
+Menampilkan Hasil: Menampilkan hasil perhitungan kepada pengguna.
