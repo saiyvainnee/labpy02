@@ -7,6 +7,8 @@ Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. K
 
 ![image](https://github.com/user-attachments/assets/b33dcfb1-7dcb-49a4-9d87-43a387cdd5ec)
 ## Program akan Meminta user untuk menginputkan tipe tiket
+
+```python
 Masukkan tipe tiket (reguler/vip): vip
 Apakah Anda memiliki kartu member? (ya/tidak): tidak
 total harga yang harus dibayar: Rp100000.00
@@ -14,6 +16,7 @@ Masukkan tipe tiket (reguler/vip): vip
 Apakah Anda memiliki kartu member? (ya/tidak): ya
 total harga yang harus dibayar: Rp80000.00
 PS C:\Users\SAYIDINA RAMADHAN\Desktop\vscode sayi>
+```python
 ```python
 # Mengambil input dari pengguna
 tipe_tiket = input("Masukkan tipe tiket (reguler/vip): ").strip().lower()
