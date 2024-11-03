@@ -68,3 +68,6 @@ Jika pengguna bukan member atau tiket yang dipilih tidak valid, total harga teta
 Menampilkan Total Harga:
 
 Jika harga tiket valid (harga tiket lebih dari 0), program akan mencetak total harga yang harus dibayar, diformat hingga dua desimal. Jika tidak, tidak ada output harga.
+##2 Kalkulator Sederhana
+Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.
+
